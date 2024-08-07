@@ -1,0 +1,2 @@
+qpu_sampling_time,qpu_anneal_time_per_sample,qpu_readout_time_per_sample,qpu_access_time,qpu_access_overhead_time,qpu_programming_time,qpu_delay_time_per_sample,post_processing_overhead_time,total_post_processing_time,problem_formulation_time,connection_time,embedding_time,response_time,sample_fetch_time,split_index,n
+88960.0,20.0,48.38,104886.36,536.64,15926.36,20.58,1.0,1.0,0.015615463256835938,2.142878293991089,0.033208370208740234,0.03630399703979492,0.0,7
