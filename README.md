@@ -105,13 +105,13 @@ This section contains the results from the quantum annealer and classical solver
 ### **Runtime**
 
 <div align="center">
-  <img src="plots/runtime.jpg" alt="Runtime comparison" width="400">
+  <img src="plots/runtime.jpg" alt="Runtime comparison" width="750">
 </div>
 
 ### **Quality**
 
 <div align="center">
-  <img src="plots/quality.jpg" alt="Quality comparison" width="400">
+  <img src="plots/quality.jpg" alt="Quality comparison" width="750">
 </div>
 
 The results show that **GCS-Q** algorithm equipped with **D-Wave Advantage** annealer significantly outperforms classical methods in runtime while maintaining a high solution quality for coalition formation.
