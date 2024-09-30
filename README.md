@@ -1,5 +1,5 @@
 
-# **LEO-satellites-coalition: Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among LEO Satellites**
+# **Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among LEO Satellites**
 
 [![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)  
 [![arXiv](https://img.shields.io/badge/arXiv-2408.06007-orange)](https://arxiv.org/abs/2408.06007)  
