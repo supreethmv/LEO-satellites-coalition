@@ -27,10 +27,11 @@ The preprint is available on [arXiv](https://arxiv.org/abs/2408.06007).
   <img src="_repo_data_/overview.jpg" alt="LEO Satellites Coalition" width="700">
 </div>
 
-The paper introduces a hybrid quantum-classical approach to partition called **GCS-Q** for clustering Low Earth Orbit (LEO) satellites into efficient coalitions, formulated as a **Coalition Structure Generation (CSG)** problem. The **GCS-Q** algorithm utilizes the **D-Wave Advantage quantum annealer** for solving the problem and compares the performance against the classical **Gurobi** solver.
 
-### **Abstract**  
+
 The increasing number of Low Earth Orbit (LEO) satellites, driven by lower manufacturing and launch costs, is proving invaluable for Earth observation missions and low-latency internet connectivity. However, as the number of satellites increases, the management of this vast network becomes challenging, highlighting the need for clustering satellites into efficient groups. This paper formulates the clustering of LEO satellites as a coalition structure generation (CSG) problem and leverages quantum annealing to solve it. The approach is evaluated using real-world three-line element set (TLE) data for Starlink satellites from Celestrak.
+
+The paper incorporates a hybrid quantum-classical approach to partition called **GCS-Q** for clustering Low Earth Orbit (LEO) satellites into efficient coalitions, formulating the task as a **Coalition Structure Generation (CSG)** problem. The **GCS-Q** algorithm utilizes the **D-Wave Advantage quantum annealer** for solving the problem and compares the performance against the classical **Gurobi** solver.
 
 ### **Paper Citation**
 If you use this repository or find it helpful, please consider citing:
