@@ -40,7 +40,7 @@ If you use this repository or find it helpful, please consider citing:
 @article{venkatesh2024quantum,
   title={Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among LEO Satellites},
   author={Venkatesh, Supreeth Mysore and Macaluso, Antonio and Nuske, Marlon and Klusch, Matthias and Dengel, Andreas},
-  journal={arXiv preprint arXiv:2405.14405},
+  journal={arXiv preprint arXiv:2408.06007},
   year={2024}
 }
 ```
