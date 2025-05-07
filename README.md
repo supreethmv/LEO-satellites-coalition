@@ -1,6 +1,8 @@
 
 # **Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among LEO Satellites**
 
+[![Paper DOI](https://img.shields.io/badge/DOI-10.1109/QCE60285.2024.10279-orange)](https://doi.org/10.1109/QCE60285.2024.10279)  
+[![Conference](https://img.shields.io/badge/Conference-QCE'24-blue)](https://qce.quantum.ieee.org/2024/)  
 [![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)  
 [![arXiv](https://img.shields.io/badge/arXiv-2408.06007-orange)](https://arxiv.org/abs/2408.06007)  
 [![LinkedIn: SupreethMV](https://img.shields.io/badge/LinkedIn-Supreeth%20Mysore%20Venkatesh-blue)](https://www.linkedin.com/in/supreethmv/)  
@@ -37,11 +39,16 @@ The paper incorporates a hybrid quantum-classical approach to partition called *
 If you use this repository or find it helpful, please consider citing:
 
 ```bibtex
-@article{venkatesh2024quantum,
-  title={Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among LEO Satellites},
+@INPROCEEDINGS{10821173,
   author={Venkatesh, Supreeth Mysore and Macaluso, Antonio and Nuske, Marlon and Klusch, Matthias and Dengel, Andreas},
-  journal={arXiv preprint arXiv:2408.06007},
-  year={2024}
+  booktitle={2024 IEEE International Conference on Quantum Computing and Engineering (QCE)}, 
+  title={Quantum Annealing-Based Algorithm for Efficient Coalition Formation Among LEO Satellites}, 
+  year={2024},
+  volume={02},
+  number={},
+  pages={205-210},
+  keywords={Satellites;Annealing;Runtime;Low earth orbit satellites;Clustering algorithms;Quantum annealing;Partitioning algorithms;Manufacturing;Low latency communication;Optimization;Quantum annealing;coalition formation;LEO-satellites;combinatorial optimization},
+  doi={10.1109/QCE60285.2024.10279}
 }
 ```
 
